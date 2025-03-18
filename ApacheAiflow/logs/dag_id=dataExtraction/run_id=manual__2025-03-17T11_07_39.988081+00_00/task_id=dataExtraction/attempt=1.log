@@ -1,0 +1,19 @@
+[2025-03-17T11:07:42.769+0000] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2025-03-17T11:07:42.833+0000] {taskinstance.py:2614} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: dataExtraction.dataExtraction manual__2025-03-17T11:07:39.988081+00:00 [queued]>
+[2025-03-17T11:07:42.837+0000] {taskinstance.py:2614} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: dataExtraction.dataExtraction manual__2025-03-17T11:07:39.988081+00:00 [queued]>
+[2025-03-17T11:07:42.837+0000] {taskinstance.py:2867} INFO - Starting attempt 1 of 1
+[2025-03-17T11:07:42.856+0000] {taskinstance.py:2890} INFO - Executing <Task(PythonOperator): dataExtraction> on 2025-03-17 11:07:39.988081+00:00
+[2025-03-17T11:07:42.860+0000] {standard_task_runner.py:72} INFO - Started process 6231 to run task
+[2025-03-17T11:07:42.866+0000] {standard_task_runner.py:104} INFO - Running: ['airflow', 'tasks', 'run', 'dataExtraction', 'dataExtraction', 'manual__2025-03-17T11:07:39.988081+00:00', '--job-id', '4', '--raw', '--subdir', 'DAGS_FOLDER/dataExtraction.py', '--cfg-path', '/tmp/tmp9fuv9p76']
+[2025-03-17T11:07:42.875+0000] {standard_task_runner.py:105} INFO - Job 4: Subtask dataExtraction
+[2025-03-17T11:07:42.930+0000] {task_command.py:467} INFO - Running <TaskInstance: dataExtraction.dataExtraction manual__2025-03-17T11:07:39.988081+00:00 [running]> on host arthur-guilherme-VirtualBox
+[2025-03-17T11:07:43.009+0000] {taskinstance.py:3134} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='Arthur Silva' AIRFLOW_CTX_DAG_ID='dataExtraction' AIRFLOW_CTX_TASK_ID='dataExtraction' AIRFLOW_CTX_EXECUTION_DATE='2025-03-17T11:07:39.988081+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-03-17T11:07:39.988081+00:00'
+[2025-03-17T11:07:43.010+0000] {taskinstance.py:732} INFO - ::endgroup::
+[2025-03-17T11:07:43.024+0000] {logging_mixin.py:190} INFO - Start
+[2025-03-17T11:11:40.237+0000] {logging_mixin.py:190} INFO - Saving in: PokemonFile.json
+[2025-03-17T11:11:40.249+0000] {python.py:240} INFO - Done. Returned value was: None
+[2025-03-17T11:11:40.258+0000] {taskinstance.py:341} INFO - ::group::Post task execution logs
+[2025-03-17T11:11:40.258+0000] {taskinstance.py:353} INFO - Marking task as SUCCESS. dag_id=dataExtraction, task_id=dataExtraction, run_id=manual__2025-03-17T11:07:39.988081+00:00, execution_date=20250317T110739, start_date=20250317T110742, end_date=20250317T111140
+[2025-03-17T11:11:40.355+0000] {local_task_job_runner.py:266} INFO - Task exited with return code 0
+[2025-03-17T11:11:40.388+0000] {taskinstance.py:3901} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2025-03-17T11:11:40.388+0000] {local_task_job_runner.py:245} INFO - ::endgroup::

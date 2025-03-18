@@ -1,0 +1,125 @@
+[2025-03-17T11:05:52.264+0000] {processor.py:186} INFO - Started process (PID=6150) to work on /home/arthur-guilherme/airflow/dags/dataExtraction.py
+[2025-03-17T11:05:52.265+0000] {processor.py:914} INFO - Processing file /home/arthur-guilherme/airflow/dags/dataExtraction.py for tasks to queue
+[2025-03-17T11:05:52.269+0000] {logging_mixin.py:190} INFO - [2025-03-17T11:05:52.269+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/arthur-guilherme/airflow/dags/dataExtraction.py
+[2025-03-17T11:05:52.282+0000] {processor.py:925} INFO - DAG(s) 'dataExtraction' retrieved from /home/arthur-guilherme/airflow/dags/dataExtraction.py
+[2025-03-17T11:05:52.380+0000] {logging_mixin.py:190} INFO - [2025-03-17T11:05:52.380+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-17T11:05:52.394+0000] {logging_mixin.py:190} INFO - [2025-03-17T11:05:52.393+0000] {dag.py:4180} INFO - Setting next_dagrun for dataExtraction to 2025-03-17 10:00:00+00:00, run_after=2025-03-18 10:00:00+00:00
+[2025-03-17T11:05:52.423+0000] {processor.py:208} INFO - Processing /home/arthur-guilherme/airflow/dags/dataExtraction.py took 0.164 seconds
+[2025-03-17T11:06:23.486+0000] {processor.py:186} INFO - Started process (PID=6189) to work on /home/arthur-guilherme/airflow/dags/dataExtraction.py
+[2025-03-17T11:06:23.488+0000] {processor.py:914} INFO - Processing file /home/arthur-guilherme/airflow/dags/dataExtraction.py for tasks to queue
+[2025-03-17T11:06:23.490+0000] {logging_mixin.py:190} INFO - [2025-03-17T11:06:23.490+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/arthur-guilherme/airflow/dags/dataExtraction.py
+[2025-03-17T11:06:23.501+0000] {processor.py:925} INFO - DAG(s) 'dataExtraction' retrieved from /home/arthur-guilherme/airflow/dags/dataExtraction.py
+[2025-03-17T11:06:23.519+0000] {logging_mixin.py:190} INFO - [2025-03-17T11:06:23.519+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-17T11:06:23.535+0000] {logging_mixin.py:190} INFO - [2025-03-17T11:06:23.535+0000] {dag.py:4180} INFO - Setting next_dagrun for dataExtraction to 2025-03-17 10:00:00+00:00, run_after=2025-03-18 10:00:00+00:00
+[2025-03-17T11:06:23.558+0000] {processor.py:208} INFO - Processing /home/arthur-guilherme/airflow/dags/dataExtraction.py took 0.077 seconds
+[2025-03-17T11:06:53.785+0000] {processor.py:186} INFO - Started process (PID=6221) to work on /home/arthur-guilherme/airflow/dags/dataExtraction.py
+[2025-03-17T11:06:53.788+0000] {processor.py:914} INFO - Processing file /home/arthur-guilherme/airflow/dags/dataExtraction.py for tasks to queue
+[2025-03-17T11:06:53.791+0000] {logging_mixin.py:190} INFO - [2025-03-17T11:06:53.790+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/arthur-guilherme/airflow/dags/dataExtraction.py
+[2025-03-17T11:06:53.800+0000] {processor.py:925} INFO - DAG(s) 'dataExtraction' retrieved from /home/arthur-guilherme/airflow/dags/dataExtraction.py
+[2025-03-17T11:06:53.816+0000] {logging_mixin.py:190} INFO - [2025-03-17T11:06:53.816+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-17T11:06:53.832+0000] {logging_mixin.py:190} INFO - [2025-03-17T11:06:53.831+0000] {dag.py:4180} INFO - Setting next_dagrun for dataExtraction to 2025-03-17 10:00:00+00:00, run_after=2025-03-18 10:00:00+00:00
+[2025-03-17T11:06:53.861+0000] {processor.py:208} INFO - Processing /home/arthur-guilherme/airflow/dags/dataExtraction.py took 0.080 seconds
+[2025-03-17T11:07:24.088+0000] {processor.py:186} INFO - Started process (PID=6227) to work on /home/arthur-guilherme/airflow/dags/dataExtraction.py
+[2025-03-17T11:07:24.092+0000] {processor.py:914} INFO - Processing file /home/arthur-guilherme/airflow/dags/dataExtraction.py for tasks to queue
+[2025-03-17T11:07:24.096+0000] {logging_mixin.py:190} INFO - [2025-03-17T11:07:24.096+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/arthur-guilherme/airflow/dags/dataExtraction.py
+[2025-03-17T11:07:24.113+0000] {processor.py:925} INFO - DAG(s) 'dataExtraction' retrieved from /home/arthur-guilherme/airflow/dags/dataExtraction.py
+[2025-03-17T11:07:24.150+0000] {logging_mixin.py:190} INFO - [2025-03-17T11:07:24.150+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-17T11:07:24.173+0000] {logging_mixin.py:190} INFO - [2025-03-17T11:07:24.173+0000] {dag.py:4180} INFO - Setting next_dagrun for dataExtraction to 2025-03-17 10:00:00+00:00, run_after=2025-03-18 10:00:00+00:00
+[2025-03-17T11:07:24.193+0000] {processor.py:208} INFO - Processing /home/arthur-guilherme/airflow/dags/dataExtraction.py took 0.120 seconds
+[2025-03-17T11:11:41.289+0000] {processor.py:186} INFO - Started process (PID=6348) to work on /home/arthur-guilherme/airflow/dags/dataExtraction.py
+[2025-03-17T11:11:41.290+0000] {processor.py:914} INFO - Processing file /home/arthur-guilherme/airflow/dags/dataExtraction.py for tasks to queue
+[2025-03-17T11:11:41.292+0000] {logging_mixin.py:190} INFO - [2025-03-17T11:11:41.292+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/arthur-guilherme/airflow/dags/dataExtraction.py
+[2025-03-17T11:11:41.301+0000] {processor.py:925} INFO - DAG(s) 'dataExtraction' retrieved from /home/arthur-guilherme/airflow/dags/dataExtraction.py
+[2025-03-17T11:11:41.335+0000] {logging_mixin.py:190} INFO - [2025-03-17T11:11:41.334+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-17T11:11:41.398+0000] {processor.py:208} INFO - Processing /home/arthur-guilherme/airflow/dags/dataExtraction.py took 0.117 seconds
+[2025-03-17T11:12:37.976+0000] {processor.py:186} INFO - Started process (PID=6370) to work on /home/arthur-guilherme/airflow/dags/dataExtraction.py
+[2025-03-17T11:12:37.977+0000] {processor.py:914} INFO - Processing file /home/arthur-guilherme/airflow/dags/dataExtraction.py for tasks to queue
+[2025-03-17T11:12:37.979+0000] {logging_mixin.py:190} INFO - [2025-03-17T11:12:37.979+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/arthur-guilherme/airflow/dags/dataExtraction.py
+[2025-03-17T11:12:37.995+0000] {processor.py:925} INFO - DAG(s) 'dataExtraction' retrieved from /home/arthur-guilherme/airflow/dags/dataExtraction.py
+[2025-03-17T11:12:38.011+0000] {logging_mixin.py:190} INFO - [2025-03-17T11:12:38.011+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-17T11:12:38.026+0000] {logging_mixin.py:190} INFO - [2025-03-17T11:12:38.026+0000] {dag.py:4180} INFO - Setting next_dagrun for dataExtraction to 2025-03-17 10:00:00+00:00, run_after=2025-03-18 10:00:00+00:00
+[2025-03-17T11:12:38.045+0000] {processor.py:208} INFO - Processing /home/arthur-guilherme/airflow/dags/dataExtraction.py took 0.073 seconds
+[2025-03-17T11:13:04.182+0000] {processor.py:186} INFO - Started process (PID=6402) to work on /home/arthur-guilherme/airflow/dags/dataExtraction.py
+[2025-03-17T11:13:04.184+0000] {processor.py:914} INFO - Processing file /home/arthur-guilherme/airflow/dags/dataExtraction.py for tasks to queue
+[2025-03-17T11:13:04.185+0000] {logging_mixin.py:190} INFO - [2025-03-17T11:13:04.185+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/arthur-guilherme/airflow/dags/dataExtraction.py
+[2025-03-17T11:13:04.195+0000] {processor.py:925} INFO - DAG(s) 'dataExtraction' retrieved from /home/arthur-guilherme/airflow/dags/dataExtraction.py
+[2025-03-17T11:13:04.226+0000] {logging_mixin.py:190} INFO - [2025-03-17T11:13:04.226+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-17T11:13:04.251+0000] {logging_mixin.py:190} INFO - [2025-03-17T11:13:04.250+0000] {dag.py:4180} INFO - Setting next_dagrun for dataExtraction to 2025-03-17 10:00:00+00:00, run_after=2025-03-18 10:00:00+00:00
+[2025-03-17T11:13:04.277+0000] {processor.py:208} INFO - Processing /home/arthur-guilherme/airflow/dags/dataExtraction.py took 0.099 seconds
+[2025-03-17T11:13:34.468+0000] {processor.py:186} INFO - Started process (PID=6406) to work on /home/arthur-guilherme/airflow/dags/dataExtraction.py
+[2025-03-17T11:13:34.470+0000] {processor.py:914} INFO - Processing file /home/arthur-guilherme/airflow/dags/dataExtraction.py for tasks to queue
+[2025-03-17T11:13:34.472+0000] {logging_mixin.py:190} INFO - [2025-03-17T11:13:34.472+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/arthur-guilherme/airflow/dags/dataExtraction.py
+[2025-03-17T11:13:34.483+0000] {processor.py:925} INFO - DAG(s) 'dataExtraction' retrieved from /home/arthur-guilherme/airflow/dags/dataExtraction.py
+[2025-03-17T11:13:34.503+0000] {logging_mixin.py:190} INFO - [2025-03-17T11:13:34.503+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-17T11:13:34.520+0000] {logging_mixin.py:190} INFO - [2025-03-17T11:13:34.519+0000] {dag.py:4180} INFO - Setting next_dagrun for dataExtraction to 2025-03-17 10:00:00+00:00, run_after=2025-03-18 10:00:00+00:00
+[2025-03-17T11:13:34.546+0000] {processor.py:208} INFO - Processing /home/arthur-guilherme/airflow/dags/dataExtraction.py took 0.082 seconds
+[2025-03-17T11:14:04.770+0000] {processor.py:186} INFO - Started process (PID=6407) to work on /home/arthur-guilherme/airflow/dags/dataExtraction.py
+[2025-03-17T11:14:04.771+0000] {processor.py:914} INFO - Processing file /home/arthur-guilherme/airflow/dags/dataExtraction.py for tasks to queue
+[2025-03-17T11:14:04.774+0000] {logging_mixin.py:190} INFO - [2025-03-17T11:14:04.774+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/arthur-guilherme/airflow/dags/dataExtraction.py
+[2025-03-17T11:14:04.785+0000] {processor.py:925} INFO - DAG(s) 'dataExtraction' retrieved from /home/arthur-guilherme/airflow/dags/dataExtraction.py
+[2025-03-17T11:14:04.803+0000] {logging_mixin.py:190} INFO - [2025-03-17T11:14:04.803+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-17T11:14:04.819+0000] {logging_mixin.py:190} INFO - [2025-03-17T11:14:04.818+0000] {dag.py:4180} INFO - Setting next_dagrun for dataExtraction to 2025-03-17 10:00:00+00:00, run_after=2025-03-18 10:00:00+00:00
+[2025-03-17T11:14:04.842+0000] {processor.py:208} INFO - Processing /home/arthur-guilherme/airflow/dags/dataExtraction.py took 0.077 seconds
+[2025-03-17T11:14:35.159+0000] {processor.py:186} INFO - Started process (PID=6411) to work on /home/arthur-guilherme/airflow/dags/dataExtraction.py
+[2025-03-17T11:14:35.163+0000] {processor.py:914} INFO - Processing file /home/arthur-guilherme/airflow/dags/dataExtraction.py for tasks to queue
+[2025-03-17T11:14:35.165+0000] {logging_mixin.py:190} INFO - [2025-03-17T11:14:35.165+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/arthur-guilherme/airflow/dags/dataExtraction.py
+[2025-03-17T11:14:35.178+0000] {processor.py:925} INFO - DAG(s) 'dataExtraction' retrieved from /home/arthur-guilherme/airflow/dags/dataExtraction.py
+[2025-03-17T11:14:35.248+0000] {logging_mixin.py:190} INFO - [2025-03-17T11:14:35.248+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-17T11:14:35.261+0000] {logging_mixin.py:190} INFO - [2025-03-17T11:14:35.261+0000] {dag.py:3262} INFO - Creating ORM DAG for dataExtraction
+[2025-03-17T11:14:35.270+0000] {logging_mixin.py:190} INFO - [2025-03-17T11:14:35.270+0000] {dag.py:4180} INFO - Setting next_dagrun for dataExtraction to 2025-03-17 10:00:00+00:00, run_after=2025-03-18 10:00:00+00:00
+[2025-03-17T11:14:35.306+0000] {processor.py:208} INFO - Processing /home/arthur-guilherme/airflow/dags/dataExtraction.py took 0.152 seconds
+[2025-03-17T11:14:49.994+0000] {processor.py:186} INFO - Started process (PID=6433) to work on /home/arthur-guilherme/airflow/dags/dataExtraction.py
+[2025-03-17T11:14:49.994+0000] {processor.py:914} INFO - Processing file /home/arthur-guilherme/airflow/dags/dataExtraction.py for tasks to queue
+[2025-03-17T11:14:49.996+0000] {logging_mixin.py:190} INFO - [2025-03-17T11:14:49.996+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/arthur-guilherme/airflow/dags/dataExtraction.py
+[2025-03-17T11:14:50.012+0000] {processor.py:925} INFO - DAG(s) 'dataExtraction' retrieved from /home/arthur-guilherme/airflow/dags/dataExtraction.py
+[2025-03-17T11:14:50.019+0000] {logging_mixin.py:190} INFO - [2025-03-17T11:14:50.019+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-17T11:14:50.035+0000] {logging_mixin.py:190} INFO - [2025-03-17T11:14:50.035+0000] {dag.py:4180} INFO - Setting next_dagrun for dataExtraction to 2025-03-17 10:00:00+00:00, run_after=2025-03-18 10:00:00+00:00
+[2025-03-17T11:14:50.064+0000] {processor.py:208} INFO - Processing /home/arthur-guilherme/airflow/dags/dataExtraction.py took 0.075 seconds
+[2025-03-17T11:15:20.248+0000] {processor.py:186} INFO - Started process (PID=6468) to work on /home/arthur-guilherme/airflow/dags/dataExtraction.py
+[2025-03-17T11:15:20.249+0000] {processor.py:914} INFO - Processing file /home/arthur-guilherme/airflow/dags/dataExtraction.py for tasks to queue
+[2025-03-17T11:15:20.252+0000] {logging_mixin.py:190} INFO - [2025-03-17T11:15:20.251+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/arthur-guilherme/airflow/dags/dataExtraction.py
+[2025-03-17T11:15:20.261+0000] {processor.py:925} INFO - DAG(s) 'dataExtraction' retrieved from /home/arthur-guilherme/airflow/dags/dataExtraction.py
+[2025-03-17T11:15:20.281+0000] {logging_mixin.py:190} INFO - [2025-03-17T11:15:20.281+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-17T11:15:20.299+0000] {logging_mixin.py:190} INFO - [2025-03-17T11:15:20.297+0000] {dag.py:4180} INFO - Setting next_dagrun for dataExtraction to 2025-03-17 10:00:00+00:00, run_after=2025-03-18 10:00:00+00:00
+[2025-03-17T11:15:20.322+0000] {processor.py:208} INFO - Processing /home/arthur-guilherme/airflow/dags/dataExtraction.py took 0.080 seconds
+[2025-03-17T11:15:50.635+0000] {processor.py:186} INFO - Started process (PID=6471) to work on /home/arthur-guilherme/airflow/dags/dataExtraction.py
+[2025-03-17T11:15:50.639+0000] {processor.py:914} INFO - Processing file /home/arthur-guilherme/airflow/dags/dataExtraction.py for tasks to queue
+[2025-03-17T11:15:50.641+0000] {logging_mixin.py:190} INFO - [2025-03-17T11:15:50.641+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/arthur-guilherme/airflow/dags/dataExtraction.py
+[2025-03-17T11:15:50.654+0000] {processor.py:925} INFO - DAG(s) 'dataExtraction' retrieved from /home/arthur-guilherme/airflow/dags/dataExtraction.py
+[2025-03-17T11:15:50.672+0000] {logging_mixin.py:190} INFO - [2025-03-17T11:15:50.672+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-17T11:15:50.688+0000] {logging_mixin.py:190} INFO - [2025-03-17T11:15:50.688+0000] {dag.py:4180} INFO - Setting next_dagrun for dataExtraction to 2025-03-17 10:00:00+00:00, run_after=2025-03-18 10:00:00+00:00
+[2025-03-17T11:15:50.709+0000] {processor.py:208} INFO - Processing /home/arthur-guilherme/airflow/dags/dataExtraction.py took 0.078 seconds
+[2025-03-17T11:18:58.936+0000] {processor.py:186} INFO - Started process (PID=6534) to work on /home/arthur-guilherme/airflow/dags/dataExtraction.py
+[2025-03-17T11:18:58.938+0000] {processor.py:914} INFO - Processing file /home/arthur-guilherme/airflow/dags/dataExtraction.py for tasks to queue
+[2025-03-17T11:18:58.940+0000] {logging_mixin.py:190} INFO - [2025-03-17T11:18:58.939+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/arthur-guilherme/airflow/dags/dataExtraction.py
+[2025-03-17T11:18:58.947+0000] {processor.py:925} INFO - DAG(s) 'dataExtraction' retrieved from /home/arthur-guilherme/airflow/dags/dataExtraction.py
+[2025-03-17T11:18:58.993+0000] {logging_mixin.py:190} INFO - [2025-03-17T11:18:58.993+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-17T11:18:59.041+0000] {processor.py:208} INFO - Processing /home/arthur-guilherme/airflow/dags/dataExtraction.py took 0.117 seconds
+[2025-03-17T11:19:30.132+0000] {processor.py:186} INFO - Started process (PID=6536) to work on /home/arthur-guilherme/airflow/dags/dataExtraction.py
+[2025-03-17T11:19:30.133+0000] {processor.py:914} INFO - Processing file /home/arthur-guilherme/airflow/dags/dataExtraction.py for tasks to queue
+[2025-03-17T11:19:30.135+0000] {logging_mixin.py:190} INFO - [2025-03-17T11:19:30.134+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/arthur-guilherme/airflow/dags/dataExtraction.py
+[2025-03-17T11:19:30.141+0000] {processor.py:925} INFO - DAG(s) 'dataExtraction' retrieved from /home/arthur-guilherme/airflow/dags/dataExtraction.py
+[2025-03-17T11:19:30.159+0000] {logging_mixin.py:190} INFO - [2025-03-17T11:19:30.158+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-17T11:19:30.172+0000] {logging_mixin.py:190} INFO - [2025-03-17T11:19:30.171+0000] {dag.py:4180} INFO - Setting next_dagrun for dataExtraction to 2025-03-17 10:00:00+00:00, run_after=2025-03-18 10:00:00+00:00
+[2025-03-17T11:19:30.190+0000] {processor.py:208} INFO - Processing /home/arthur-guilherme/airflow/dags/dataExtraction.py took 0.063 seconds
+[2025-03-17T11:20:00.442+0000] {processor.py:186} INFO - Started process (PID=6538) to work on /home/arthur-guilherme/airflow/dags/dataExtraction.py
+[2025-03-17T11:20:00.443+0000] {processor.py:914} INFO - Processing file /home/arthur-guilherme/airflow/dags/dataExtraction.py for tasks to queue
+[2025-03-17T11:20:00.445+0000] {logging_mixin.py:190} INFO - [2025-03-17T11:20:00.445+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/arthur-guilherme/airflow/dags/dataExtraction.py
+[2025-03-17T11:20:00.451+0000] {processor.py:925} INFO - DAG(s) 'dataExtraction' retrieved from /home/arthur-guilherme/airflow/dags/dataExtraction.py
+[2025-03-17T11:20:00.468+0000] {logging_mixin.py:190} INFO - [2025-03-17T11:20:00.468+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-17T11:20:00.479+0000] {logging_mixin.py:190} INFO - [2025-03-17T11:20:00.478+0000] {dag.py:4180} INFO - Setting next_dagrun for dataExtraction to 2025-03-17 10:00:00+00:00, run_after=2025-03-18 10:00:00+00:00
+[2025-03-17T11:20:00.496+0000] {processor.py:208} INFO - Processing /home/arthur-guilherme/airflow/dags/dataExtraction.py took 0.058 seconds
+[2025-03-17T11:20:30.789+0000] {processor.py:186} INFO - Started process (PID=7229) to work on /home/arthur-guilherme/airflow/dags/dataExtraction.py
+[2025-03-17T11:20:30.791+0000] {processor.py:914} INFO - Processing file /home/arthur-guilherme/airflow/dags/dataExtraction.py for tasks to queue
+[2025-03-17T11:20:30.793+0000] {logging_mixin.py:190} INFO - [2025-03-17T11:20:30.792+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/arthur-guilherme/airflow/dags/dataExtraction.py
+[2025-03-17T11:20:30.799+0000] {processor.py:925} INFO - DAG(s) 'dataExtraction' retrieved from /home/arthur-guilherme/airflow/dags/dataExtraction.py
+[2025-03-17T11:20:30.818+0000] {logging_mixin.py:190} INFO - [2025-03-17T11:20:30.817+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-17T11:20:30.833+0000] {logging_mixin.py:190} INFO - [2025-03-17T11:20:30.833+0000] {dag.py:4180} INFO - Setting next_dagrun for dataExtraction to 2025-03-17 10:00:00+00:00, run_after=2025-03-18 10:00:00+00:00
+[2025-03-17T11:20:30.866+0000] {processor.py:208} INFO - Processing /home/arthur-guilherme/airflow/dags/dataExtraction.py took 0.082 seconds
+[2025-03-17T11:21:01.017+0000] {processor.py:186} INFO - Started process (PID=7236) to work on /home/arthur-guilherme/airflow/dags/dataExtraction.py
+[2025-03-17T11:21:01.019+0000] {processor.py:914} INFO - Processing file /home/arthur-guilherme/airflow/dags/dataExtraction.py for tasks to queue
+[2025-03-17T11:21:01.021+0000] {logging_mixin.py:190} INFO - [2025-03-17T11:21:01.021+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/arthur-guilherme/airflow/dags/dataExtraction.py
+[2025-03-17T11:21:01.030+0000] {processor.py:925} INFO - DAG(s) 'dataExtraction' retrieved from /home/arthur-guilherme/airflow/dags/dataExtraction.py
+[2025-03-17T11:21:01.052+0000] {logging_mixin.py:190} INFO - [2025-03-17T11:21:01.052+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-17T11:21:01.065+0000] {logging_mixin.py:190} INFO - [2025-03-17T11:21:01.064+0000] {dag.py:4180} INFO - Setting next_dagrun for dataExtraction to 2025-03-17 10:00:00+00:00, run_after=2025-03-18 10:00:00+00:00
+[2025-03-17T11:21:01.085+0000] {processor.py:208} INFO - Processing /home/arthur-guilherme/airflow/dags/dataExtraction.py took 0.071 seconds
